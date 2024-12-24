@@ -31,7 +31,6 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-        //"送给我": "./imgs/songxinxin.jpeg",
         "最美的冬冬宝贝": "./imgs/1.png",
         "还记得我们是哪一天认识的嘛": "./imgs/2.jpg",
         "6.9 我们一起去广州": "./imgs/3.jpg",
